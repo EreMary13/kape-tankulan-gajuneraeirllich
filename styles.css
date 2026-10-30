@@ -10,8 +10,9 @@ h1{
     text-align: center;
 }
 .tagline{
+    font-size: 25px;
     background-color: #FFFFFF;
-    padding: 30px;
+    padding: 25px;
     border: 4px solid #E6D5C3;
     margin: 20px;
 }
